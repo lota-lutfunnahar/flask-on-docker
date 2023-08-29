@@ -1,12 +1,12 @@
 # Dockerizing Flask with Postgres, Gunicorn, and Nginx
 
-## Want to learn how to build this?
+## Want to learn how to build this? 
 
 Check out the [post](https://testdriven.io/blog/dockerizing-flask-with-postgres-gunicorn-and-nginx).
 
 ## Want to use this project?
 
-### Development
+### Development in local
 
 Uses the default Flask development server.
 
